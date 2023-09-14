@@ -1,2 +1,2 @@
-# AI-ML-Smart Bridge
+# AI-ML-SmartBridge
 Assignments
